@@ -1,0 +1,1 @@
+module "github.com/ujunglangit-id/tiny-memcache"
